@@ -95,3 +95,20 @@ console.log(e !=f);
 
 CONDICIONAL
 
+//if
+
+if(true){
+    console.log("é verdadeiro")
+}
+
+//switch case
+
+let time ="corinthians";
+
+switch(time){
+    case "corinthians":
+        console.log("melhor time")
+        break;
+    case "sao paulo":
+        console.log(" é tao ruim que nao consehie em casa")
+}
